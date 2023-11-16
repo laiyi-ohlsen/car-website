@@ -1,4 +1,4 @@
-const baseUrl = "http://car-api-2w8k.onrender.com/"
+const baseUrl = "https://car-api-2w8k.onrender.com/"
 
 const colors = ["Green", "Red", "Blue"]
 const colorVals = colors.values();
